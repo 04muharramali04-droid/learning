@@ -1,1 +1,1 @@
-print("Ateeq")
+print("Ateeq is a junior developer")
